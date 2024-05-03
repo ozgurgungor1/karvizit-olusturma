@@ -2,7 +2,7 @@
 Üniversite Ödevi: Öğrenci Eklemle Silme Güncelleme ve Tasarlanmış olan Kart Vizite bu bilgilerin işlenmesi
 
 
-https://drive.google.com/file/d/1SsXr-yyvb8LifrM0cLT8dBzXmRybtgwn/view?usp=drive_link
+Link: https://drive.google.com/file/d/1SsXr-yyvb8LifrM0cLT8dBzXmRybtgwn/view?usp=drive_link
 
 
 ![Ekran görüntüsü 2024-05-03 134525](https://github.com/ozgurgungor1/karvizit-olusturma/assets/168583984/2d415fed-5acd-4936-a91c-7e279980a848)
